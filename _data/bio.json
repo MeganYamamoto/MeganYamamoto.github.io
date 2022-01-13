@@ -3,27 +3,27 @@
     "name": "Megan Yamamoto",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "meganhy8@hawaii.edu",
+    "phone": "",
+    "website": "https://meganyamamoto.github.io",
+    "summary": "I am studying for a B.S. in Management Information Systems in the Department of Shidler Business at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "meganyamamoto",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/meganyamamoto"
       },
       {
         "network": "twitter",
@@ -39,26 +39,26 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Chemistry",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Math",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Japanese",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Technology",
       "level": "",
       "keywords": [
         "C",
@@ -84,9 +84,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01-10",
       "endDate": "Present",
       "gpa": "",
       "courses": [
