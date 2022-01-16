@@ -18,7 +18,7 @@ But the more I though about it, the more I wondered to myself...damn that's a re
 
 Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
+#### In the context of programming
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
