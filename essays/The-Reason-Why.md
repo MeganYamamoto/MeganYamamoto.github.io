@@ -18,7 +18,7 @@ Before taking that class, I had focused on the math and chemistry aspect of STEM
 
 I decided to apply for a student job at Leeward Community College Test Center where Test Center student-employees, who are able to work more closely with Help Desk student-employees during this time, get to gain troubleshooting experience and are predisposed to the IT side of things.
 
-Through the job, I met students who were a mix of business, cyber-security, MIS and computer science majors. One of the degrees that stood out to me was MIS. Working with an MIS major, I was able to discuss and ask questions about it.
+My coworkers consisted of business, cyber-security, MIS and computer science majors. The degrees that stood out to me was MIS. Working with an MIS major, I was able to discuss and ask questions about it.
 
 It became clear that computer science and its related fields is diversly applicable and represents a wide, secure future job market. As I have learned throughout the Covid-19 pandemic, we are only going to continue to rely further on technology. If it something that is a big part of everyday life, it would be useful to make an effort understand it.
 
