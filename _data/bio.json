@@ -37,25 +37,47 @@
       }
     ]
   },
-  "interests": [
+   "interests": [
     {
       "name": "Information Technology",
       "keywords": [
+        "Big Data",
+        "Cloud Computing",
+        "Internet of Things",
+        "Social Media",
+        "Mobile",
+        "Artificial Learning",
+        "Blockchain"
       ]
     },
     {
       "name": "Chemistry",
       "keywords": [
+       "Thermodynamics",
+        "Electrochemistry",
+        "Mathematics",
+        "Physics",
       ]
     },
     {
       "name": "Math",
       "keywords": [
+      "name": "Math",
+      "keywords": [
+        "Arithmetic",
+        "Algebra",
+        "Geometry",
+        "Trigonometry",
+        "Calculus I, II"
       ]
     },
-        {
+      {
       "name": "Japanese",
       "keywords": [
+       "N3",
+        "Intermediate",
+        "language",
+        "culture"
       ]
     }
   ],
