@@ -70,9 +70,8 @@
         "Trigonometry",
         "Calculus I, II"
       ]
-    }
-  ],
-      {
+    },
+    {
       "name": "Japanese",
       "keywords": [
        "N3",
@@ -80,8 +79,8 @@
         "language",
         "culture"
       ]
-    }
-  ],
+    },
+    {
   "skills": [
     {
       "name": "Languages & Frameworks",
