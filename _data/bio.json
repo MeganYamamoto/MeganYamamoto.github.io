@@ -75,7 +75,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Management Information Systems (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2022-01-10",
       "endDate": "Present",
@@ -83,7 +83,18 @@
       "courses": [
       ]
     }
+     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Assoiciates in Exploratory Business",
+      "studyType": "B.S.",
+      "startDate": "2018-08-01",
+      "endDate": "2021-12-17",
+      "gpa": "",
+      "courses": [
+      ]
+    }
   ],
+  
   "work": [
     {
       "company": "Leeward Community College Information Technology Services",
