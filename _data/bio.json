@@ -134,7 +134,7 @@
     {
       "company": "Leeward Community College Information Technology Services",
       "position": "Help Desk Assistant",
-      "website": "https://www2.leeward.hawaii.edu/itg/helpdesk",
+      "website": "www2.leeward.hawaii.edu/itg/helpdesk",
       "startDate": "2021-08-01",
       "endDate": "Present",
       "summary": "",
@@ -144,7 +144,39 @@
       ]
     }
   ],
- 
+   
+  "work": [
+    {
+      "company": "Gyu-Kaku Japanese BBQ Restaurant",
+      "position": "Server",
+      "website": "www.gyu-kaku.com",
+      "startDate": "2018-05-31",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Take care of guests through great service to ensure enjoyment in overall dining experience",
+        "Work as a team to efficiently deliver food and drinks in a timely manner",
+        "Ability to complete multiple tasks with attentiveness to guests’ needs in a busy work environment"
+      ]
+    }
+  ],
+         
+  "work": [
+    {
+      "company": "Zara",
+      "position": "Sales Associate",
+      "website": "www.zara.com",
+      "startDate": "2015-12-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assess customer needs to provide proper assistance",
+        "Contribute to team’s daily goals",
+        "Handle payments, issue receipts, process returns",
+        "Sales, Stock & RFID Technology, Register POS Systems, and Visual Coordination"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
