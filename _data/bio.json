@@ -39,6 +39,11 @@
   },
   "interests": [
     {
+      "name": "Information Technology",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Chemistry",
       "keywords": [
       ]
@@ -47,16 +52,11 @@
       "name": "Math",
       "keywords": [
       ]
-    },
-    {
-      "name": "Japanese",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
-      "name": "Technology",
+      "name": "Japanese",
       "level": "",
       "keywords": [
         "html",
