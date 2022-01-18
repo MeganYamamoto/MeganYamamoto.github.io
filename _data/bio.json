@@ -52,6 +52,11 @@
       "name": "Math",
       "keywords": [
       ]
+    },
+        {
+      "name": "Japanese",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -68,7 +73,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
+        "WindowsOS",
+        "Microsoft Office",
+        "Google Workspace",
+        "Git/GitHub", 
       ]
     }
   ],
