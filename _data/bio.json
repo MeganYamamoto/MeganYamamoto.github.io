@@ -56,7 +56,7 @@
        "Thermodynamics",
         "Electrochemistry",
         "Mathematics",
-        "Physics",
+        "Physics"
       ]
     },
     {
@@ -78,14 +78,14 @@
         "culture"
       ]
     },
-    {
+]
   "skills": [
     {
       "name": "Languages & Frameworks",
       "level": "",
       "keywords": [
         "HTML",
-        "CSS",
+        "CSS"
       ]
     },
     {
