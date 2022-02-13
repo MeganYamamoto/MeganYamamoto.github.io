@@ -11,7 +11,7 @@ labels:
 
 
 
-In this WOD in a folder called Invoice1, we must create a file called invoice.html that displays a sales receipt for the sale of five different products by using expressions and variables to compute values dynamically of variables including item name, quantity, price, extended price, subtotal, tax and total. For further details regarding the instructions for WOD Invoice1, please click the following link and refer to Invoice1 found under the Experimental Learning Header.
+In this WOD in a folder called Invoice1, we must create a file called invoice.html that displays a sales receipt for the sale of five different products by using expressions and variables to compute values dynamically. These variables include item name, quantity, price, extended price, subtotal, tax and total. For further details regarding the instructions for WOD Invoice1, please click the following link and refer to Invoice1 found under the Experimental Learning Header.
 
 https://dport96.github.io/ITM352/modules/expressions-operators/
 
