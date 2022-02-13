@@ -13,7 +13,7 @@ labels:
 
 In this WOD in a folder called Invoice1, we must create a file called invoice.html that displays a sales receipt for the sale of five different products by using expressions and variables to compute values dynamically. These variables include item name, quantity, price, extended price, subtotal, tax and total. For further details regarding the instructions for WOD Invoice1, please click the following link and refer to Invoice1 found under the Experimental Learning Header.
 
-[Click here](https://dport96.github.io/ITM352/modules/expressions-operators/)
+[Click here to view Module](https://dport96.github.io/ITM352/modules/expressions-operators/)
 
 My experience performing the WOD was acceptable in some respects and needed work in other aspects. What worked well was using JavaScript to declare variables and using expressions to compute values dynamically. To create the table in which the invoice would be displayed, I went with option 1. In the WOD, I was able to successfully copy the HTML format of the table provided in the instructions page by viewing page source and pasting it into the document, however, what slowed me down the most was understanding how to convert static html template into a document.write() and use string templates to fill in the product data in the row cells dynamically.
 
