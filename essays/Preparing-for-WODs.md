@@ -1,9 +1,15 @@
-layout	type	title	date	labels
-essay
-essay
-Preparing For WODs
-2022-02-13
-MIS
+---
+layout: essay
+type: essay
+title: Preparing for WODs
+# All dates must be YYYY-MM-DD format!
+date: 2022-02-13
+labels:
+  - MIS
+---
+
+
+
 
 In this WOD in a folder called Invoice1, we must create a file called invoice.html that displays a sales receipt for the sale of five different products by using expressions and variables to compute values dynamically of variables including item name, quantity, price, extended price, subtotal, tax and total. For further details regarding the instructions for WOD Invoice1, please click the following link and refer to Invoice1 found under the Experimental Learning Header.
 
