@@ -1,9 +1,15 @@
-layout	type	title	date	labels
-essay
-essay
-Progress in Programming
-2022-04-05
-MIS
+---
+layout: essay
+type: essay
+title: Progressing-in-Programming
+# All dates must be YYYY-MM-DD format!
+date: 2022-04-05
+labels:
+  - MIS
+  - Programming
+---
+
+
 Going to college, I aimed to find a study that is both interesting and challenging to me. I began my journey hoping to find a career in STEM, however, I wasn’t sure in which specific study I wanted to get my degree.
 
 My first experience with programming was through a class called "Programming for Engineers". The class had focused on the programming language C. Although it is a class intended for students to learn without prior knowledge or experience, I felt that the teaching structure did not allow for my potential as a beginner to be reached.
