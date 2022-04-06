@@ -9,9 +9,9 @@ labels:
   - Programming
 ---
 
-1.	My programming skills have greatly improved in the following ways:
+<b>1.	My programming skills have greatly improved in the following ways:</b>
 My programming has improved by becoming acquainted with html, css, and javascript. I had very little to no prior experience and knowledge before this class. Now I am able to distinguish between the languages and their general uses and have a better understanding if their syntax. After some practice with certain functions, I can somewhat follow along and make sense of what given code is doing, but I still have a long way to go when it comes to understanding it well and feeling confident.
-
+<br>
 
 2.	I need to work on the following to improve my programming skills:
 There are a lot of ways in which my programming could use improvement. I am unable to construct proper and clean code from scratch on my own and need a lot of assistance and guidance to put together functions to get code to do what I intend. I find that I am so concerned about just getting code to work that thinking about conciseness and efficiency is the last thing on my mind. 
