@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Progressing-in-Programming
+title: Progressing in Programming
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-05
 labels:
