@@ -11,6 +11,8 @@ labels:
 <b>1. Show what each page will look like. The pages do not have to be “functional” but the design should clear.
 <br>
   
+![](../images/PPT.png)
+  
 <b>2.	 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 <br>
   
