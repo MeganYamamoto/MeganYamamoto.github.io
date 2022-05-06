@@ -13,14 +13,16 @@ labels:
   
 ![](../images/PPT.png)
   
-  <b>2.	 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
+  <b>2.	 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</b>
   <br>
  My design for the cart will be an "invisible" cart. Users should be able to update the amount of items they want on the products display page and those items will be updated in their shopping cart. Instead of directing the user to a seperate page that shows the user their shopping cart, the invisible cart just notifies the user that their cart is updated. This way, the user won't have to press the back button to continue shopping.
   <br>
   
-  <b>3.	Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
+  <b>3.	Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.</b>
   <br>
 Sessions will be used to manage my shopping cart by saving user's sessions on the server so that when they log in again, they can access their session through a session ID. My data such as products, user information, and registration data will be formatted using objects and arrays in JSON format. An example of this would be the following:
+  <br>    
+    {
   <br>
       "Fruits": [
   <br>  
@@ -60,19 +62,19 @@ Sessions will be used to manage my shopping cart by saving user's sessions on th
   <br>
         }
   <br>
-  ]
+     ]
   <br>
   }
 
   
-  <b>4.	How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
+  <b>4.	How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?</b>
   <br>
   
-  <b>5.	Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
+  <b>5.	Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)</b>
   <br>
   
-  <b>6.	If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
+  <b>6.	If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?</b>
   <br>
   
-  <b>7.	How are you approaching Assignment 3 differently than Assignment 2?
+  <b>7.	How are you approaching Assignment 3 differently than Assignment 2?</b>
   <br>
