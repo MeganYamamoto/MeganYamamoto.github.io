@@ -15,6 +15,7 @@ labels:
   
   <b>2.	 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</b>
   <br>
+    <br>
  My design for the cart will be an "invisible" cart. Users should be able to update the amount of items they want on the products display page and those items will be updated in their shopping cart. Instead of directing the user to a seperate page that shows the user their shopping cart, the invisible cart just notifies the user that their cart is updated. This way, the user won't have to press the back button to continue shopping.
   <br>
   
