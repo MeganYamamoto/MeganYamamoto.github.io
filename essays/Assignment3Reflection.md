@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Assignment 2
+title: Reflecting on Assignment 3
 # All dates must be YYYY-MM-DD format!
-date: 2022-04-19
+date: 2022-05-14
 labels:
   - MIS
   - Programming
